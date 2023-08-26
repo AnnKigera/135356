@@ -1,0 +1,3 @@
+Name: [Ann Kigera]
+Admission Number: [135356]
+Project Title: [Diabetes Prediction Model using Support Vector Machine Algorithm]
